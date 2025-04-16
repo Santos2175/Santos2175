@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Santosh
 
 ## About Me
-I'm a passionate Fullstack enthusiast with a focus on MERN stack development. I love learning and applying the gained knowledge in building scalable and responsive web applications.
+I'm a full-stack developer with a focus on the MERN stack. I enjoy learning new technologies and applying them to build responsive and scalable web applications.
 
 ## Skills
 - **Languages**: JavaScript, TypeScript, HTML, CSS, C/C++, Python
