@@ -5,7 +5,7 @@ My journey into full-stack development started with a curiosity about how techno
 
 Now, I work with tools like React, Node.js, Express, and MongoDB to create clean, user-friendly solutions. I enjoy both designing interfaces and engineering the backend that powers them. I'm always eager to learn, take on meaningful challenges, and grow with teams building something impactful.
 
-## Skills
+## Technical Skills
 - **Languages**: JavaScript, TypeScript, C/C++, Python
 - **Frontend Frameworks/Libraries**: React.js, Next.js, TailwindCSS, SASS, Shadcn
 - **Backend Frameworks/Libraries**: Node.js, Express.js, Nest.js
